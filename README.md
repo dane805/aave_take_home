@@ -4,3 +4,9 @@
 - 제출을 위해 실제 돌아가는 쥬피터
   - modeling/5. Extract features.ipynb
   - modeling/6. evaluate extracted features.ipynb
+- 참고사항
+  - 각 쥬피터의 최상단에 대략적인 작업 진행 내용이 있음
+  - 앞의 숫자는 작성시점 순서와 동일함
+  - 앞단의 파일은 부분적으로 작동을 보장하지 않음 (결과물을 만드는 modeling/5~6은 보장됨)
+  - .py에 작성된 함수들을 호출하여 사용
+  - 데이터가 보관되는 폴더는 take-home-interview 폴더이며 깃에는 업로드되지 
