@@ -184,3 +184,6 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
 
+
+take-home-interview/*.csv
+take-home-interview/*.pkl
